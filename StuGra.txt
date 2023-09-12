@@ -1,0 +1,228 @@
+---*---
+TomJohnson
+English
+A-
+Maths
+A-
+Science
+A-
+Social Studies
+B-
+Physical Education
+C+
+---*---
+SallyJenkins
+English
+A-
+Maths
+A+
+Science
+A-
+Social Studies
+B-
+Physical Education
+C-
+---*---
+AshleyBrown
+English
+A
+Maths
+B-
+Science
+B+
+Social Studies
+A-
+Physical Education
+A+
+---*---
+JasonSteel
+English
+A
+Maths
+C
+Science
+C+
+Social Studies
+D
+Physical Education
+B+
+---*---
+JessicaZimsky
+English
+C+
+Maths
+B-
+Science
+B
+Social Studies
+B-
+Physical Education
+C+
+---*---
+ManuWiremu
+English
+A
+Maths
+A+
+Science
+A
+Social Studies
+A
+Physical Education
+B-
+---*---
+MaramaKelly
+English
+C+
+Maths
+A+
+Science
+A-
+Social Studies
+B
+Physical Education
+C+
+---*---
+KatianDeku
+English
+C
+Maths
+C-
+Science
+D
+Social Studies
+C+
+Physical Education
+A+
+---*---
+UravityDeku
+English
+A-
+Maths
+A+
+Science
+A+
+Social Studies
+B
+Physical Education
+C+
+---*---
+HenareKarloff
+English
+C+
+Maths
+D
+Science
+B-
+Social Studies
+B+
+Physical Education
+B
+---*---
+DerekJetson
+English
+B+
+Maths
+B
+Science
+A-
+Social Studies
+C
+Physical Education
+C++
+---*---
+DeanWin
+English
+B
+Maths
+C-
+Science
+B-
+Social Studies
+A-
+Physical education
+A+
+---*---
+SamWin
+English
+A+
+Maths
+A
+Science
+A+
+Social Studies
+B+
+Physical education
+C+
+---*---
+KatrielJay
+English
+A+
+Maths
+A-
+Science
+B+
+Social Studies
+B-
+Physical Education
+C
+---*---
+ShaggyRogers
+English
+B
+Maths
+B-
+Science
+C+
+Social Studies
+A-
+Physical Education
+B+
+---*---
+KennyDexter
+English
+A-
+Maths
+C+
+Science
+B
+Social Studies
+C
+Physical Education
+B+
+---*---
+YonnyYonson
+English
+A-
+Maths
+A+
+Science
+C+
+Social Studies
+B-
+Physical Education
+A
+---*---
+LukeJohnson
+English
+A
+Maths
+A-
+Science
+F
+Social Studies
+D
+Physical Education
+B
+---*---
+KateWelsh
+English
+A-
+Maths
+B-
+Science
+C+
+Social Studies
+C-
+Physical Education
+C-

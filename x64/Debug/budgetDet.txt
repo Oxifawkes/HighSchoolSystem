@@ -1,0 +1,50 @@
+---*---
+Staff Total
+15689
+Projected
+15689
+Actual
+15689
+---*---
+Cleaners Total
+30556
+Projected
+30556
+Actual
+30556
+---*---
+Maintenance Total
+25694
+Projected
+25694
+Actual
+24875
+---*---
+Supplies Total
+60000
+Projected
+60000
+Actual
+61500
+---*---
+Resources Total
+75000
+Projected
+75000
+Actual
+85062
+---*---
+Student Fees Total
+18993
+Projected
+18993
+Actual
+17996
+---*---
+Total budget
+224243
+Projected
+224243
+Actual
+233989
+---*---

@@ -1,0 +1,83 @@
+JessicaOrmund
+Jessica Ormund
+42
+BA & Bed
+Teacher
+Physical Education
+---*---
+KellyMcCormac
+Kelly McCormac
+38
+BSc & Bed
+Dean
+Maths
+---*---
+WilliamBarron
+William Barron
+46
+BA & Bed
+Principal
+English
+---*---
+KingiHarmond
+Kingi Harmond
+64
+BSc & Bed
+Teacher
+Maths
+---*---
+RebeccaOsborn
+Rebecca Osborn
+39
+BSc
+Administrator
+N/A
+---*---
+JosephJohnson
+Joseph Johnson
+27
+BSc
+Administrator
+N/A
+---*---
+KarlJacobs
+Karl Jacobs
+29
+BSc
+Teacher
+Science
+---*---
+KennyLarson
+Kenny Larson
+24
+Bed
+Teacher
+Maths
+---*---
+JosephineJackson
+Josephine Jackson
+54
+Bed
+Teacher
+Social Studies
+---*---
+JaneThor
+Jane Thor
+37
+Bed & MSc
+Teacher
+Science
+---*---
+JessicaRobins
+Jessica Robins
+21
+BA & BSc
+Teacher
+English
+---*---
+JaneWilkins
+Jane Wilkins
+50
+Bed & MA
+Teacher
+Social Studies
